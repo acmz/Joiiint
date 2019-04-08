@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c217ac0b0e01991499c5ae35c186b8c3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jointTypeAPrefabObj: {fileID: 5253380974792949247, guid: f8cabeca1adc0624999a15c74c87c2b5,
+      type: 3}
+  - jointTypeBPrefabObj: {fileID: 1488851474602893761, guid: de6c7ea7660bca6438f6be45c7f20b00,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
